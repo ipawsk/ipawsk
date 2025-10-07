@@ -12,7 +12,7 @@
   <a href="https://x.com/PawizAcked">
     <img height="30" src="https://raw.githubusercontent.com/8bithemant/8bithemant/master/twitter.png?raw=true" alt="X / Twitter"/>
   </a>&nbsp;&nbsp;
-  <a href="https://www.linkedin.com/in/<pawlara>/">
+  <a href="https://www.linkedin.com/in/pawlara/">
     <img height="30" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn"/>
   </a>
 </p>
